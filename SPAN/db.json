@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Maduro Dictador",
+      "email": "vivachavez@gmail.com",
+      "phone": "1234567890",
+      "enrollNumber": "12345678901234",
+      "dateOfAdmission": "07-Mar-2015",
+      "id": "1",
+      "role":"admin",
+      "password":"realg4life"
+    },
+    {
+      "id": "f234",
+      "name": "Ema",
+      "enrollNumber": "100000000000",
+      "phone": "1000000000000000",
+      "email": "klkmanito@hotmail.com",
+      "dateOfAdmission": "2000-03-24"
+    },
+    {
+      "id": "d476",
+      "name": "Mauricio Cardenas",
+      "enrollNumber": "10009209354",
+      "phone": "31255743457",
+      "email": "mardicionmauro@hotmail.com",
+      "dateOfAdmission": "2023-07-07"
+    },
+    {
+      "name": "Dayro Moreno Traicionero",
+      "email": "golespalosnenesgolespalasnenas@gmail.com",
+      "phone": "295865",
+      "enrollNumber": "100003",
+      "dateOfAdmission": "2021-02-12",
+      "id": "0351"
+    },
+    {
+      "id": "9327",
+      "name": "Tumba Tuca",
+      "enrollNumber": "109827347",
+      "phone": "4362627127",
+      "email": "mrfoxeldemonio@hotmail.com",
+      "password": "realg4life",
+      "dateOfAdmission": "2025-01-18",
+      "role": "user  "
+    }
+  ]
+}
